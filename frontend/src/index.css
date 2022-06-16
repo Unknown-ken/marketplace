@@ -31,3 +31,11 @@ main {
 .site-container {
   min-height: 100vh;
 }
+
+.rating span {
+  color: #ffc000;
+}
+.btn-primary {
+  background-color: greenyellow;
+  color: black;
+}
