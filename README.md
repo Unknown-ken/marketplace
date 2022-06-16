@@ -41,3 +41,6 @@
 10. Add bootstrap UI Framework
     1. npm install react-bootstrap bootstrap
     2. update App.js
+11. Create Product Details Screen
+    1. fetch product from backend
+    2. craete 3 colums for image,info and action
